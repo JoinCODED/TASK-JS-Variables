@@ -13,6 +13,8 @@
 5. Click the settings icon in the bottom left corner again, and open the `Settings`.
 6. Search in settings for `Format On Save`, and **make sure the box is checked**.
 
+(Review note: add steps for how `code .` is set and that you need to do this every time you quit VSCode)
+
 ## Install [node](https://nodejs.org/en/download/)
 
 For Windows users, install by downloading the [Windows installer](https://nodejs.org/dist/v12.16.3/node-v12.16.3-x64.msi).
